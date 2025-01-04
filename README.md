@@ -14,7 +14,7 @@
   ### Sobre mim
   ##
 <div align= "center">
-  <p>   Me interesso muito por engenharia e questões que envolvam resolução de problemas. Com a profissão de desenvolvedor de software posso aplicar esse interesse na busca por conhecimentos de criação de softwares, focando no quanto um software pode tornar uma empresa mais eficaz da matéria-prima ao consumidor final.</p>
+  <p>   Olá eu me chamo Gustavo ! Me interesso muito por engenharia e questões que envolvam resolução de problemas. Com a profissão de desenvolvedor de software pude aplicar esse interesse na busca por conhecimentos na criação de softwares, focando no quanto um software pode tornar uma empresa mais eficiente, da matéria-prima ao consumidor final.</p>
 </div>
   
 
@@ -23,5 +23,5 @@
 ##
 <div align= "center">
   <a href="https://instagram.com/gustavoprog" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:contatogustavodevt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href = "mailto:contatogustavoprogp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
