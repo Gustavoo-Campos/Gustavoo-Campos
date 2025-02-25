@@ -1,9 +1,20 @@
-## Olá ! Eu sou o Gustavo 🖐️
+<h1 align= "center">Conheça-me melhor !</h1>
+<h3 align= "center">Olá ! Eu sou o Gustavo 🖐️</h3>
+ <p  align= "center">   Me interesso muito por engenharia e questões que envolvam resolução de problemas. Com a profissão de desenvolvedor de software pude aplicar esse interesse na busca por conhecimentos na criação de softwares, focando no quanto um software pode melhorar uma empresa tornando-a mais eficiente, da matéria-prima ao consumidor final.</p>
+ 
+##
+
+<h2>Meu protótipos de softwares:</h2>
+
+
+<a href="">
+  
+</a>
 
 
 
 <div align= "center">
-  <a href="https://github.com/gustavoo-campos">  
+  <a href="https://github.com/gustavoo-campos">
     
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoo-campos&show_icons=true&theme=transparent)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoo-campos&&layout=compact&theme=transparent)
@@ -20,13 +31,6 @@
   
 
 
-
-  ### Sobre mim
-  ##
-<div align= "center">
-  <p>   Olá eu me chamo Gustavo ! Me interesso muito por engenharia e questões que envolvam resolução de problemas. Com a profissão de desenvolvedor de software pude aplicar esse interesse na busca por conhecimentos na criação de softwares, focando no quanto um software pode tornar uma empresa mais eficiente, da matéria-prima ao consumidor final.</p>
-</div>
-  
 
 
 ### Redes sociais
