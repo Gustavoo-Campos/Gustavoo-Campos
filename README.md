@@ -2,13 +2,11 @@
 <h3 align= "center">Olá ! Eu sou o Gustavo 🖐️</h3>
  <p  align= "center">   Me interesso muito por engenharia e questões que envolvam resolução de problemas. Com a profissão de desenvolvedor de software pude aplicar esse interesse na busca por conhecimentos na criação de softwares, focando no quanto um software pode melhorar uma empresa tornando-a mais eficiente, da matéria-prima ao consumidor final.</p>
  
-##
 
-<h2>Meu protótipos de softwares:</h2>
-
-
+<h2>Meu protótipos de softwares:</h2> 
 <a href="https://github.com/Gustavoo-Campos/sports-life">
-  oi
+  <img src="">
+ oi
 </a>
 
 
