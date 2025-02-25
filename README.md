@@ -10,15 +10,15 @@
 
 <h2>Meu protótipos de softwares:</h2> 
 <a href="">
-  <img width="300px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Portf%C3%B3lio.png">
+  <img width="400px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/iPhone%2016%20Pro.png">
 </a>
 
 <a href="">
-  <img width="300px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Portf%C3%B3lio.png">
+  <img width="250px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Portf%C3%B3lio.png">
 </a>
 
 <a href="">
-  <img width="300px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Portf%C3%B3lio.png">
+ <img width="300px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Portf%C3%B3lio.png">
 </a>
 
 
