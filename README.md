@@ -40,7 +40,7 @@
 ## ☕ Projetos:
 
 - [Vida esportiva](https://github.com/Gustavoo-Campos/sports-life)
-- [Dev software]()
+- [Dev software](https://github.com/Gustavoo-Campos/dev-software)
 - [Curso]()
 
     
