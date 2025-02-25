@@ -9,16 +9,25 @@
     Me interesso muito por engenharia e questões que envolvam resolução de problemas. Com a profissão de desenvolvedor de software pude aplicar esse interesse na busca por conhecimentos na criação de softwares, focando no quanto um software pode melhorar uma empresa tornando-a mais eficiente, da matéria-prima ao consumidor final.
 </p>
 
-<!-- Tecnoligias -->
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-<!-- Certificados -->
 
 
+<!-- Certificados --> 
+
+<img  align="center" width="200px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Captura%20de%20tela%202025-02-18%20222744%202.png">
+<img  align="center" width="200px" src="">
   
+
+<br>
+
+<!-- Tecnoligias -->
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
+
+
+
+
 
 ## ☕ Sumário
 
