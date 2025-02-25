@@ -41,7 +41,7 @@
 
 - [Vida esportiva](https://github.com/Gustavoo-Campos/sports-life)
 - [Dev software](https://github.com/Gustavoo-Campos/dev-software)
-- [Curso]()
+- [Curso](https://github.com/Gustavoo-Campos/course)
 
     
 
