@@ -40,7 +40,7 @@
 ## 💻 Projeto principal:
 
 
-- [Ver projeto principal !](https://gustavoo-campos.github.io/master/) 
+###  [- Ver projeto principal !](https://gustavoo-campos.github.io/master/) 
   
     
 
