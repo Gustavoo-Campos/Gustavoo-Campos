@@ -16,7 +16,6 @@
 </div>
 
 
-
 ## + Informações
 
 <div align= "center">
@@ -27,7 +26,6 @@
 </div>
 
 
-
 <!-- Certificados -->
 <div style="display: inline_block" align="center" ><br>
 <img  align="center" width="200px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Captura%20de%20tela%202025-02-18%20222744%202.png">
@@ -36,23 +34,21 @@
 </div><br>
 
 
-
 ## 💻 Projeto principal:
 
+<br>
 
-###  [- Ver projeto principal !](https://gustavoo-campos.github.io/master/) 
-  
-    
+### {  [ Ver projeto principal !](https://gustavoo-campos.github.io/master/)  }
 
-
-
+<br>
+<br>
+<br>
 
 
 <div align= "center">
 
 <a href="https://instagram.com/gustavoprog" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:gustavoprogp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
 
 </div>
 
