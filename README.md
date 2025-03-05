@@ -3,8 +3,8 @@
 <h3 align="center">Olá ! Eu sou o Gustavo 🖐️</h3>
 
 
-<p align="center">
-    Me interesso muito por engenharia e questões que envolvam resolução de problemas. Com a profissão de desenvolvedor de software pude aplicar esse interesse na busca por conhecimentos na criação de softwares, focando no quanto um software pode melhorar uma empresa tornando-a mais eficiente, da matéria-prima ao consumidor final.
+<p>
+   Me interesso muito por engenharia e questões que envolvam resolução de problemas. Com a profissão de desenvolvedor de software pude aplicar esse interesse na busca por conhecimentos na criação de softwares, focando no quanto um software pode melhorar uma empresa tornando-a mais eficiente, da matéria-prima ao consumidor final.
 </p>
 
 
@@ -16,32 +16,33 @@
 </div>
 
 
-## + Informações
-
+## 🧠 Estudos
+<!--
 <div align= "center">
   <a href="https://github.com/gustavoo-campos">
-      
+
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoo-campos&show_icons=true&theme=transparent)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoo-campos&&layout=compact&theme=transparent)
 </div>
+-->
 
 
 <!-- Certificados -->
-<div style="display: inline_block" align="center" ><br>
+<div style="display: inline_block" align="center"><br>
 <img  align="center" width="200px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Captura%20de%20tela%202025-02-18%20222744%202.png">
 <img  align="center" width="200px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Captura%20de%20tela%202025-02-25%20162127%201.png">
 <img  align="center" width="200px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Captura%20de%20tela%202025-02-25%20162229.png">
 </div><br>
 
 
-## 💻 Projeto principal:
+## 💻 Projeto principal
 
 <br>
 
 
 <h3 align="center">
- 
-{ [- Ver projeto principal !](https://gustavoo-campos.github.io/master/) }
+    
+{ [🔖 Ver projeto principal !](https://gustavoo-campos.github.io/master/) }
 </h3>  
 
 <br>
