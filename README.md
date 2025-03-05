@@ -1,5 +1,5 @@
 
-<h2 id="mim">☕ Conheça-me melhor !</h2>
+<h1 id="mim">☕ Conheça-me melhor !</h1>
 <h3 align="center">Olá ! Eu sou o Gustavo 🖐️</h3>
 
 
@@ -16,7 +16,7 @@
 </div>
 
 
-## 🧠 Estudos
+<h3>🧠 Estudos</h3>
 <!--
 <div align= "center">
   <a href="https://github.com/gustavoo-campos">
@@ -35,7 +35,7 @@
 </div><br>
 
 
-## 💻 Projeto principal
+<h3>💻 Projeto principal</h3>
 
 <br>
 
