@@ -1,6 +1,6 @@
 
 
-<img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
+<img  src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/A4%20-%2025.png"> 
 
 <h1 id="mim">☕ Conheça-me melhor !</h1>
 <h3 align="center">Olá ! Eu sou o Gustavo 🖐️</h3>
