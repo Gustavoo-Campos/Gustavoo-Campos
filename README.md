@@ -1,7 +1,3 @@
-
-
-<img  src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/A4%20-%2025.png"> 
-
 <h1 id="mim">☕ Conheça-me melhor !</h1>
 <h3 align="center">Olá ! Eu sou o Gustavo 🖐️</h3>
 
