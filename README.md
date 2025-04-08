@@ -63,8 +63,6 @@
 
 
 <h3 align="center">
-    
-{ [🔖 Ver projeto principal !](https://gustavoo-campos.github.io/master/) }
 
  [<img  align="center" width="200px" width="50" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/botao.png">](https://gustavoo-campos.github.io/master/) 
 </h3>  
