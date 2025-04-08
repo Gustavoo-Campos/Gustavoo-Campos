@@ -18,12 +18,11 @@
      
  [<img align="center" width="200px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Alfa.png"> ](https://gustavoo-campos.github.io/master/) 
 
- 
+ <br>
   
  [<img align="center" width="200px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Bravo.png"> ]() 
  
-
- 
+<br>
  
  [<img align="center" width="200px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Charlie.png"> ]() 
  
