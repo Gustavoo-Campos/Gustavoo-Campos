@@ -1,11 +1,9 @@
-<h1 id="mim">☕ Conheça-me melhor !</h1>
-<h3 align="center">Olá ! Eu sou o Gustavo 🖐️</h3>
 
+<h2 align="center">Olá, mundo ! Eu sou o Gustavo 🖐️</h2>
 
 <p>
    Me interesso muito por engenharia e questões que envolvam resolução de problemas. Com a profissão de desenvolvedor de software pude aplicar esse interesse na busca por conhecimentos na criação de softwares, focando no quanto um software pode melhorar uma empresa tornando-a mais eficiente, da matéria-prima ao consumidor final.
 </p>
-
 
 <!-- Tecnoligias -->
 <div align= "center">
@@ -15,26 +13,46 @@
 </div>
 
 
-<h3>🧠 Estudos</h3>
-<!--
-<div align= "center">
-  <a href="https://github.com/gustavoo-campos">
 
+
+
+<br>
+<br>
+<br>
+
+
+
+
+
+
+<h2  align="center">🧠 Estudos</h2>
+
+<!--    Estatisticas
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoo-campos&show_icons=true&theme=transparent)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoo-campos&&layout=compact&theme=transparent)
-</div>
 -->
-
 
 <!-- Certificados -->
 <div style="display: inline_block" align="center"><br>
 <img  align="center" width="200px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Captura%20de%20tela%202025-02-18%20222744%202.png">
 <img  align="center" width="200px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Captura%20de%20tela%202025-02-25%20162127%201.png">
 <img  align="center" width="200px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Captura%20de%20tela%202025-02-25%20162229.png">
-</div><br>
+   
+</div>
 
 
-<h3>💻 Projeto principal</h3>
+
+
+
+<br>
+<br>
+<br>
+
+
+
+
+
+<h2  align="center">💻 Projeto principal ↓</h2>
 
 <br>
 
