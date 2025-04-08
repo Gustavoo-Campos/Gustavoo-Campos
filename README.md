@@ -10,7 +10,7 @@
   <img align="center" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
   <img align="center" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="50" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/logica.png">
+  
    
 </div>
 
@@ -36,9 +36,10 @@
 
 <!-- Certificados -->
 <div style="display: inline_block" align="center"><br>
-<img  align="center" width="200px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Captura%20de%20tela%202025-02-18%20222744%202.png">
-<img  align="center" width="200px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Captura%20de%20tela%202025-02-25%20162127%201.png">
-<img  align="center" width="200px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Captura%20de%20tela%202025-02-25%20162229.png">
+<img  align="center" width="150px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Captura%20de%20tela%202025-02-18%20222744%202.png">
+<img  align="center" width="150px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Captura%20de%20tela%202025-02-25%20162127%201.png">
+<img  align="center" width="150px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Captura%20de%20tela%202025-02-25%20162229.png">
+<img  align="center" width="150px" width="50" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/logica.png">
    
 </div>
 
