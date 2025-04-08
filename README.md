@@ -33,54 +33,10 @@
 
 
 
+<!-- - - - - - - - - - - - -   MÍDIAS   - - - - - - - - - - - - - - - - -->
 
 
 
-
-
-<!-- Tecnoligias -->
-<div align= "center">
-  <img align="center" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
-  <img align="center" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
-   
-</div>
-
-
-
-
-
-<br>
-<br>
-<br>
-
-
-
-
-
-
-<h2  align="center">🧠 Estudos</h2>
-
-<!--    Estatisticas
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoo-campos&show_icons=true&theme=transparent)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoo-campos&&layout=compact&theme=transparent)
--->
-
-<!-- Certificados -->
-<div style="display: inline_block" align="center">
-
-{ [📋 Certificados]() }
- 
-      
-</div>
-
-
-
-
-
-<br>
-<br>
 
 <!---
 <div align= "center">
@@ -91,3 +47,26 @@
 </div>
 
 --->
+
+
+
+
+
+
+<!-- - - - - - - - - - - - -   CERTIFICODOS   - - - - - - - - - - - - - - - - -->
+
+<div style="display: inline_block" align="center">
+
+
+{ [📋 Certificados](https://github.com/Gustavoo-Campos/Gustavoo-Campos/tree/main/img/certificados) }
+
+<br>
+
+  <img align="center" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
+  <img align="center" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+   
+      
+</div>
+
