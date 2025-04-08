@@ -40,8 +40,7 @@
 <img  align="center" width="150px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Captura%20de%20tela%202025-02-25%20162127%201.png">
 <img  align="center" width="150px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Captura%20de%20tela%202025-02-25%20162229.png">
 <img  align="center" width="150px" width="50" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/logica.png">
-
-<img  align="center" width="150px" width="50" src="">
+<img  align="center" width="150px" width="50" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/html.png">
 <img  align="center" width="150px" width="50" src="">
    
 </div>
