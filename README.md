@@ -1,7 +1,7 @@
 
 <h2 align="center">Olá, mundo ! Eu sou o Gustavo 🖐️</h2>
 
-<p>
+<p align= "center">
    Me interesso muito por engenharia e questões que envolvam resolução de problemas. Com a profissão de desenvolvedor de software pude aplicar esse interesse na busca por conhecimentos na criação de softwares, focando no quanto um software pode melhorar uma empresa tornando-a mais eficiente, da matéria-prima ao consumidor final.
 </p>
 
@@ -36,12 +36,12 @@
 
 <!-- Certificados -->
 <div style="display: inline_block" align="center"><br>
-<img  align="center" width="150px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Captura%20de%20tela%202025-02-18%20222744%202.png">
-<img  align="center" width="150px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Captura%20de%20tela%202025-02-25%20162127%201.png">
-<img  align="center" width="150px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Captura%20de%20tela%202025-02-25%20162229.png">
-<img  align="center" width="150px" width="50" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/logica.png">
-<img  align="center" width="150px" width="50" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/html.png">
-<img  align="center" width="150px" width="50" src="">
+<img  align="center" width="100px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Captura%20de%20tela%202025-02-18%20222744%202.png">
+<img  align="center" width="100px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Captura%20de%20tela%202025-02-25%20162127%201.png">
+<img  align="center" width="100px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Captura%20de%20tela%202025-02-25%20162229.png">
+<img  align="center" width="100px" width="50" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/logica.png">
+<img  align="center" width="100px" width="50" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/html.png">
+<img  align="center" width="100px" width="50" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/github.png">
    
 </div>
 
