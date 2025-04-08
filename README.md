@@ -36,12 +36,12 @@
 
 <!-- Certificados -->
 <div style="display: inline_block" align="center"><br>
-<img  align="center" width="120px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Captura%20de%20tela%202025-02-18%20222744%202.png">
-<img  align="center" width="120px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Captura%20de%20tela%202025-02-25%20162127%201.png">
-<img  align="center" width="120px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Captura%20de%20tela%202025-02-25%20162229.png">
-<img  align="center" width="120px" width="50" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/logica.png">
-<img  align="center" width="120px" width="50" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/html.png">
-<img  align="center" width="120px" width="50" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/github.png">
+<img  align="center" width="140px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Captura%20de%20tela%202025-02-18%20222744%202.png">
+<img  align="center" width="140px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Captura%20de%20tela%202025-02-25%20162127%201.png">
+<img  align="center" width="140px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Captura%20de%20tela%202025-02-25%20162229.png">
+<img  align="center" width="140px" width="50" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/logica.png">
+<img  align="center" width="140px" width="50" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/html.png">
+<img  align="center" width="140px" width="50" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/github.png">
    
 </div>
 
