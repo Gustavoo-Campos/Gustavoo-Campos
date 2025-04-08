@@ -5,7 +5,6 @@
    Me interesso muito por engenharia e questões que envolvam resolução de problemas. Com a profissão de desenvolvedor de software pude aplicar esse interesse na busca por conhecimentos na criação de softwares, focando no quanto um software pode melhorar uma empresa tornando-a mais eficiente, da matéria-prima ao consumidor final.
 </p>
 
-
 <br>
 <br>
 
@@ -16,57 +15,35 @@
 
 <div  align="center">
      
- [<img align="center" width="200px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Alfa.png"> ](https://gustavoo-campos.github.io/master/) 
-
- <br>
-  
- [<img align="center" width="200px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Bravo.png"> ]() 
- 
-<br>
- 
- [<img align="center" width="200px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Charlie.png"> ]() 
- 
-   
+ [<img align="center" width="200px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Alfa.png"> ](https://gustavoo-campos.github.io/master/)  [<img align="center" width="200px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Bravo.png"> ]()  [<img align="center" width="200px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Charlie.png"> ]() 
 </div>
 
-
-
+<br>
+<br>
 
 
 <!-- - - - - - - - - - - - -   MÍDIAS   - - - - - - - - - - - - - - - - -->
 
 
-
-
-<!---
-<div align= "center">
-
-<a href="https://instagram.com/gustavoprog" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:gustavoprogp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
+<div style="display: inline_block" align="center">
+<p>
+   
+ {[📋 Certificados](https://github.com/Gustavoo-Campos/Gustavoo-Campos/tree/main/img/certificados)}  {[📷 Instagram](https://instagram.com/gustavoprog)}  {[✉️ Gmail](mailto:gustavoprogp@gmail.com)}
+</p>
 </div>
 
---->
+<br>
+<br>
 
 
 
-
-
-
-<!-- - - - - - - - - - - - -   CERTIFICODOS   - - - - - - - - - - - - - - - - -->
+<!-- - - - - - - - - - - - -   TECNOLOGIAS   - - - - - - - - - - - - - - - - -->
 
 <div style="display: inline_block" align="center">
-
-
-{ [📋 Certificados](https://github.com/Gustavoo-Campos/Gustavoo-Campos/tree/main/img/certificados) }
-
 <br>
 
   <img align="center" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
   <img align="center" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
-   
-      
 </div>
 
