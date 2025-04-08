@@ -28,7 +28,7 @@
 <div style="display: inline_block" align="center">
 <p>
    
- {[📋 Certificados](https://github.com/Gustavoo-Campos/Gustavoo-Campos/tree/main/img/certificados)}  {[📷 Instagram](https://instagram.com/gustavoprog)}  {[✉️ Gmail](mailto:gustavoprogp@gmail.com)}
+ {[📋 Certificados](https://github.com/Gustavoo-Campos/Gustavoo-Campos/tree/main/img/certificados)}  {[📷 Instagram](https://instagram.com/gustavo.prog)}  {[✉️ Gmail](mailto:gustavoprogp@gmail.com)}
 </p>
 </div>
 
