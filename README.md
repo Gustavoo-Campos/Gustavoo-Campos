@@ -15,26 +15,6 @@
 
 
 
-<div style="display: inline_block" align="center">
-
-  <p> 
-     
- [<img align="center" width="200px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Alfa.png"> ](https://gustavoo-campos.github.io/master/) 
- </p>
-
- 
-<p>
-   
- [<img align="center" width="200px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Bravo.png"> ]() 
- </p>
-
- 
-<p>
-   
- [<img align="center" width="200px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/Charlie.png"> ]() 
- </p>
-   
-</div>
 
 
 
