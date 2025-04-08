@@ -11,7 +11,7 @@
 
 <!-- - - - - - - - - - - - -   PROJETOS   - - - - - - - - - - - - - - - - -->
 
-<h2 align="center">Clique em um dos projetos abaixo para ter a visualização</h2>
+<h2 align="center">Clique em um projeto para visualiza-lo</h2>
 <br>
 
 <div  align="center">
