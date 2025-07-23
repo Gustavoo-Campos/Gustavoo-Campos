@@ -5,8 +5,6 @@
    Me interesso muito por engenharia e questões que envolvam resolução de problemas. E sendo um desenvolvedor de software pude aplicar esse interesse nos softwares, focando em como toda uma empresa pode ser estruturada em um aplicativo, da matéria-prima ao consumidor final. Há mais outros projetos que você vai gostar de ver no meu Instagram.  
 </p>
 
-<br>
-
 
 <!-- - - - - - - - - - - - -   TECNOLOGIAS   - - - - - - - - - - - - - - - - -->
 
