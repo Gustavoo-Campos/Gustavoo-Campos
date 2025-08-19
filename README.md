@@ -2,7 +2,7 @@
 <h2 align="center">Olá, mundo ! Eu sou o Gustavo 🖐️</h2>
 
 <p align= "center">
-   Me interesso muito por engenharia e questões que envolvam resolução de problemas. E sendo um desenvolvedor de software pude aplicar esse interesse nos softwares, focando em como toda uma empresa pode ser estruturada em um aplicativo, da matéria-prima ao consumidor final. Há mais outros projetos que você vai gostar de ver no meu Instagram.  
+   Tenho muito gosto por engenharia e questões que envolvam a resolução de problemas! No mundo da tecnologia depositei todo esse interesse nos softwares, focando em como uma empresa pode ser toda estruturada em um único aplicativo, da matéria-prima ao consumidor final. Há mais outros projetos que você vai gostar de ver no meu Instagram.  
 </p>
 
 
