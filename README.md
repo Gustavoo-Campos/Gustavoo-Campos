@@ -30,7 +30,7 @@
 
 <div  align="center">
      
- [<img align="center" width="200px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/ViewFy.png"> ](https://gustavoo-campos.github.io/Alfa/)  [<img align="center" width="200px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/L%C2%B4ar%C3%B4me.png"> ](https://gustavoo-campos.github.io/Bravo/) [<img align="center" width="200px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/InovArch.png"> ](https://gustavoo-campos.github.io/Charlie/) 
+ [<img align="center" width="200px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/ViewFy.png"> ](https://gustavoo-campos.github.io/Alfa/)  [<img align="center" width="200px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/L%C2%B4ar%C3%B4me.png"> ](https://gustavoo-campos.github.io/Bravo/) [<img align="center" width="200px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/InovArch.png"> ](https://gustavoo-campos.github.io/InovArch/) 
 </div>
 
 <br>
