@@ -8,7 +8,7 @@
 
 <!-- - - - - - - - - - - - -   TECNOLOGIAS   - - - - - - - - - - - - - - - - -->
 
-<div style="display: inline_block" align="">
+<div style="display: inline_block" align="center">
 
   <img align="center" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
   <img align="center" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -29,7 +29,7 @@
 
 <div  align="center">
      
- [<img align="center" width="200px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/ViewFy.png"> ](https://gustavoo-campos.github.io/Alfa/)  [<img align="center" width="200px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/L%C2%B4ar%C3%B4me.png"> ](https://gustavoo-campos.github.io/Bravo/) [<img align="center" width="200px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/InovArch.png"> ](https://gustavoo-campos.github.io/InovArch/) 
+ [<img align="center" width="100px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/ViewFy.png"> ](https://gustavoo-campos.github.io/Alfa/)  [<img align="center" width="100px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/L%C2%B4ar%C3%B4me.png"> ](https://gustavoo-campos.github.io/Bravo/) [<img align="center" width="100px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/InovArch.png"> ](https://gustavoo-campos.github.io/InovArch/) 
 </div>
 
 <br>
@@ -42,7 +42,7 @@
 <div style="display: inline_block" align="center">
 <p>
    
- {[📋 Certificados](https://github.com/Gustavoo-Campos/Gustavoo-Campos/tree/main/img/certificados)}  {[📷 Instagram](https://instagram.com/gustavo.prog)}  {[✉️ Gmail](mailto:gustavoprogp@gmail.com)}
+ {[Certificados](https://github.com/Gustavoo-Campos/Gustavoo-Campos/tree/main/img/certificados)}  {[Instagram](https://instagram.com/gustavo.prog)}  {[Gmail](mailto:gustavoprogp@gmail.com)}
 </p>
 </div>
 
