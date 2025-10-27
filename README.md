@@ -1,14 +1,14 @@
 
 <h2 align="center">Olá, mundo ! Eu sou o Gustavo 🖐️</h2>
 
-<p align= "center">
-   Tenho muito gosto por engenharia e questões que envolvam a resolução de problemas! No mundo da tecnologia depositei todo esse interesse nos softwares, focando em como uma empresa pode ser toda estruturada em um único aplicativo, da matéria-prima ao consumidor final. Há mais outros projetos que você vai gostar de ver no meu Instagram.  
+<p align= "">
+   Engenharia e tudo que envolva a resolução de problemas sempre me chamaram a atenção! No mundo da tecnologia usei todo esse interesse nos softwares, focando em como uma empresa pode ser totalmente estruturada no digital, da matéria-prima ao consumidor final. Há mais outros projetos que você vai gostar de ver no meu Instagram.  
 </p>
 
 
 <!-- - - - - - - - - - - - -   TECNOLOGIAS   - - - - - - - - - - - - - - - - -->
 
-<div style="display: inline_block" align="center">
+<div style="display: inline_block" align="">
 <br>
 
   <img align="center" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
