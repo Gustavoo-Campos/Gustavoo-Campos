@@ -9,7 +9,6 @@
 <!-- - - - - - - - - - - - -   TECNOLOGIAS   - - - - - - - - - - - - - - - - -->
 
 <div style="display: inline_block" align="">
-<br>
 
   <img align="center" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
   <img align="center" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -25,7 +24,7 @@
 
 <!-- - - - - - - - - - - - -   PROJETOS   - - - - - - - - - - - - - - - - -->
 
-<h2 align="center">Clique em um projeto para visualiza-lo</h2>
+<h2 align="center">Clique em um projeto para testa-lo</h2>
 <br>
 
 <div  align="center">
