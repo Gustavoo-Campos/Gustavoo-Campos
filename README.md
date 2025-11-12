@@ -1,4 +1,4 @@
-<h2>O e-commerce</h2>
+<h1 align="center">O e-commerce</h1>
 O e-commerce, é a prática de comprar e vender produtos ou serviços pela internet. Ele revolucionou a forma como consumidores e empresas interagem, oferecendo praticidade e alcance global.
 
 Entre suas principais vantagens estão:
@@ -17,7 +17,7 @@ O e-commerce continua crescendo e se adaptando às novas tecnologias, tornando-s
 
 <!-- - - - - - - - - - - - -   PROJETOS   - - - - - - - - - - - - - - - - -->
 
-<h2>Clique e veja alguns projeto</h2>
+<h1 align="center">Clique e veja alguns projeto</h1>
 
 <br>
 
