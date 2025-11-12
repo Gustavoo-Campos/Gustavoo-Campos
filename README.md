@@ -10,13 +10,13 @@ Tenho um interesse especial por **e-commerce**, um modelo de negócios que trans
 
 <h1 align="center"> Projetos em desteque </h1>
 
-1. [<img align="center" width="90px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/assinatura.png"> ](https://gustavoo-campos.github.io/Alfa/) **[Assinatura]**  
+1. [<img align="center" width="90px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/assinatura.png"> ](https://gustavoo-campos.github.io/Alfa/) - **Assinatura**  
    _Plataforma de loja virtual com sistema de carrinho, integração com meios de pagamento e painel administrativo._
 
-2.  [<img align="center" width="90px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/loja.png"> ](https://gustavoo-campos.github.io/Bravo/) **[Loja]**  
+2.  [<img align="center" width="90px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/loja.png"> ](https://gustavoo-campos.github.io/Bravo/) - **Loja**  
    _Plataforma de filmes e séries, integração com meios de pagamento e painel administrativo._
 
-3. [<img align="center" width="90px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/portfolio.png"> ](https://gustavoo-campos.github.io/InovArch/)  **[Porfólio]**  
+3. [<img align="center" width="90px" src="https://github.com/Gustavoo-Campos/Gustavoo-Campos/blob/main/img/portfolio.png"> ](https://gustavoo-campos.github.io/InovArch/) - **Porfólio**  
    _Plataforma de portfólio, integração com meios de pagamento e painel administrativo._
 
 <br>
